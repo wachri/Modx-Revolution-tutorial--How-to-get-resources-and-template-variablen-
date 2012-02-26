@@ -1,0 +1,5 @@
+<div>
+  <h3>[[+pagetitle]]</h3>
+  [[+content]]
+  Beispiel TV: [[+beispielTV]]
+</div>
