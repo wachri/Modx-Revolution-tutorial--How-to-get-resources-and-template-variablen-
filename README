@@ -1,4 +1,9 @@
 This repository is part of a tutorial for Modx Revolution.
 
-you can find ist at:
+You can find the Tutorial at:
 http://www.code-meets-design.de/2012/02/modx-revolution-tutorial-zugriff-auf-resources-und-template-variablen/
+
+It shows
+1. How to load a modx resource (document)
+2. How to process (render) the content of the resource with a chunk
+3. How to get the content of template variables from a resource
